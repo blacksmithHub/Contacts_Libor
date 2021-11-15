@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contacts</string>
+
+    <string-array name="network">
+        <item>SUN</item>
+        <item>GLOBE</item>
+        <item>SMART</item>
+    </string-array>
+
+</resources>
